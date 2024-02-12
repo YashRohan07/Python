@@ -16,5 +16,4 @@ print(x + y)  # For numbers, the + character works as a mathematical operator
 x = 5
 y = "John"
 print(x, y)
-# The best way to output multiple variables in the print() function is to separate them with commas,
-# which even support different data types
+# The best way to output multiple variables in the print() function is to separate them with commas, which even support different data types
