@@ -6,7 +6,7 @@ print(x, y, z)  # print() function, can output multiple variables, separated by 
 x = "Python "
 y = "is "
 z = "awesome"
-print(x + y + z)  #  Can also use the + operator to output multiple variables
+print(x + y + z)  # Can also use the + operator to output multiple variables
 
 x = 5
 y = 10
