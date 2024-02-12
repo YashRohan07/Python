@@ -18,7 +18,7 @@ The global variable with the same name will remain as it was, global and with th
 x = "Yash"  # Global Variable
 def myfunc():
   x = "Rohan"  # Local Variable
-  print("This is " + x)
+  print("This is " + x)  # Prints the Local Variable
 
 myfunc()
-print("This is " + x)
+print("This is " + x)  # Prints the Global Variable
