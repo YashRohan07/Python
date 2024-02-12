@@ -1,5 +1,4 @@
-# Variables don't need to be declared with any particular type,
-# and can even change type after they have been set.
+# Variables don't need to be declared with any particular type, and can even change type after they have been set.
 
 x = 5   # x is of type int
 y = "Yash"  # y is of type string
