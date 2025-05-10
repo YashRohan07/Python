@@ -1,4 +1,4 @@
-# Arithmetic Operators
+# Arithmetic Operator
 num1, num2 = 10, 5
 
 addition = num1 + num2
